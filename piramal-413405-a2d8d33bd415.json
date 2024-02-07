@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "piramal-413405",
+  "private_key_id": "a2d8d33bd4156a8e863ba848244c05ca9207c00c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDK/4G+S7GK20Nu\nfUVfuR/CCEeitcUlcqJJpoc6Az3I8j6LzTp8t1Bdy2PWXMb7cs+n+mnLUPsUyYXg\nILAfuSvbHRm14bh3H0WQh4Zzchy8dH5crNm9hVxXd1vecxTfzso1P90EgyPoyGb5\nFaQOKtKA/6fLNIahrfMiN9GnugwczHfU2tRt2srdcR3uW1Fs4JUkVMRDJ1NBn3Si\nEEgscs0jwPtK9wYJ5ifsujxOH1oCDphpEnBqlZsfutnkBX+ngWsCPJUrXhnMoIfY\nfWXOdoIlBH7cbOJ3s4je59P1HrGQu1kJqWP80T931WsDsWykdDxxh4bEpTdRUpNs\ncIXnASDhAgMBAAECggEAAKTu9HupBJfNjvw2zCb6QtNj5tBM3+GNQk6U/0ojWA/s\nwuTT2rF6P9H1byi8OPAUWKQi0dJf+aDqG9v+sxsTWI6vFjSxMS+YOO01MAicrrxv\n6jtiNYfG00A9umcDGfK+EY0yVmFUK9j2+rNm4eSg5mfpUGvKQZkbvHAQ6kdc4nqC\nNDJlSIghcnFTkh3uuYptAGQcBOExEEt6f2oyuhtWMHDypWTgK6lARD0xST8F/V+5\n6/BNhJlBHsVGXSSiAqRILfmujF+VLqSl8uUmuuxmPXtW/bgVnEBu4m/PueFiFZo6\n6Vr0pZErpqhBXKhAEnh2C5P57Dv/6Z++uEneUoNwQQKBgQDr48Vo4Ish9HhVy2r3\nK99mwoORq3T1z2zilTpfKdpr43U0MWgMlDVhh7a6e33zdUgGTDTC38C3VhPqgMkI\n7vksxjco/jfXonMzrbWA5UVDsQXPTCBI4IklFGGaYxWpWODf4/gwGNKsq3x4e59y\n6zWStNoMayFs4USq6UZvu0JRGwKBgQDcTeJeGlcSDPFhb9uf00fl/f0AJPnRxTj6\ny/qoooRSwVurmiWqB6IYQMGhSGdDmW7Shm+T0UQBS6CdpHiVJvEUElh4aobOMcU3\nMM+9by/P1IMG4DTPVKaHpL6jy786sosSRdsL3NWwjHZ2VNrsh1uREs4XoP6v0u/y\nUTWkeFjxswKBgBUYgJ4ZfrfhqiVaFM3YEZmaCbQsVkBpdX5qBBdgodUGOYQaawi8\n9G0teu0AgEoWkgNmK03GPvDmdM+DBveSj5wued5jpdDWCWF0xoepeWFNYoygbT63\nPeyf/v6Un+pONYYwWBDNF4Izr+UCgUcAvADLxbhYmFupZb+3LwJtB8hDAoGAFYAU\nY5K2hLB2rke4a3S3Q57yHh19tBdHZFKb9/FEcL8mLy0wF9P+4dcQDql+Sn6i7jDo\nmsiFlorG9hujGQtf49GWiMn8tgrtcGF3JMnBJMtcrkMbZFCioAJYCKxN0XCzWekv\nY4z93ekXdpz5cLQVH6dyLaQstwQjHscGMTL9mzkCgYEAnaAtxV6OtX91yto9g5cL\nYVSW+SHoMICio10ALv9sJeYbSybwd2sEvm6XRA5h+8zJ13MJuZUVuOXQGsuy61n3\nKyHZoKq6+BIiG7cOH5MniLevl7ZDAVFM0qlT1xD3rb8bXrylMyvG32FbPo/imN/8\nC2x9piVuyU2tqQ6t13yzMhM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "piramal@piramal-413405.iam.gserviceaccount.com",
+  "client_id": "105172368746749646876",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/piramal%40piramal-413405.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
