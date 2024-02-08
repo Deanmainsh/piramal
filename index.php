@@ -82,22 +82,22 @@
                   <div class="col-3">
                     <span class="input-group-addon"><i class="bi bi-geo-alt"></i></span>
                     <div class="searchInput">
-                      <label for="inputPassword2" >location</label>
-                      <input type="text" class="form-control" id="inputPassword2">
+                      <label for="inputlocation" >location</label>
+                      <input type="text" class="form-control" id="inputlocation">
                     </div>
                   </div>
                   <div class="col-3">
                     <span class="input-group-addon"><i class="bi bi-house-door"></i></span>
                     <div class="searchInput">
-                      <label for="inputPassword2" >Property Type</label>
-                      <input type="text" class="form-control" id="inputPassword2">
+                      <label for="inputproperty" >Property Type</label>
+                      <input type="text" class="form-control" id="inputproperty">
                     </div>
                   </div>
                   <div class="col-3 br-none">
                     <span class="input-group-addon"><i class="bi bi-currency-rupee"></i></i></span>
                     <div class="searchInput">
-                      <label for="inputPassword2" >Budget</label>
-                      <input type="text" class="form-control" id="inputPassword2">
+                      <label for="inputbudget" >Budget</label>
+                      <input type="text" class="form-control" id="inputbudget">
                     </div>
                   </div>
                   <div class="col-3">
